@@ -1,0 +1,5 @@
+c:\users\skyline\documents\visual studio 2013\Projects\PuntoDeVenta\CapaDeDatos\bin\Debug\CapaDeDatos.dll
+c:\users\skyline\documents\visual studio 2013\Projects\PuntoDeVenta\CapaDeDatos\bin\Debug\CapaDeDatos.pdb
+c:\users\skyline\documents\visual studio 2013\Projects\PuntoDeVenta\CapaDeDatos\obj\Debug\CapaDeDatos.csprojResolveAssemblyReference.cache
+c:\users\skyline\documents\visual studio 2013\Projects\PuntoDeVenta\CapaDeDatos\obj\Debug\CapaDeDatos.dll
+c:\users\skyline\documents\visual studio 2013\Projects\PuntoDeVenta\CapaDeDatos\obj\Debug\CapaDeDatos.pdb
